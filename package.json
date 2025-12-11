@@ -1,0 +1,12 @@
+{
+  "name": "safexpress-tracker",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "chrome-aws-lambda": "^10.1.0",
+    "puppeteer-core": "^10.2.0"
+  },
+  "scripts": {
+    "start": "node api/track.js"
+  }
+}
